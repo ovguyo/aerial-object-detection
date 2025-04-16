@@ -1,0 +1,10 @@
+torch>=1.12
+torchvision>=0.13
+transformers>=4.35.0
+datasets>=2.16.0
+pycocotools>=2.0.6
+Pillow>=9.0.0
+tqdm>=4.60.0
+iterative-stratification
+timm
+numpy
